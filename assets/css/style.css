@@ -319,7 +319,7 @@ Header Style
 }
 
 .header-area .main-nav .logo h1 {
-  font-size: 36px;
+  font-size: 24px;
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
@@ -677,6 +677,12 @@ Banner Style
 
 .main-banner .item-3 {
   background-image: url(../images/banner-item-03.jpg);
+}
+.main-banner .item-4 {
+  background-image: url(../images/banner-item-01.jpg);
+}
+.main-banner .item-5 {
+  background-image: url(../images/banner-item-02.jpg);
 }
 
 .main-banner .item {
